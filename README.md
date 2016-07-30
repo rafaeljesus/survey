@@ -3,6 +3,7 @@ Survey Example app
 
 [![CircleCI](https://circleci.com/gh/rafaeljesus/survey.svg?style=svg)](https://circleci.com/gh/rafaeljesus/survey)
 [![Code Climate](https://codeclimate.com/github/rafaeljesus/survey/badges/gpa.svg)](https://codeclimate.com/github/rafaeljesus/survey)
+[![Test Coverage](https://codeclimate.com/github/rafaeljesus/survey/badges/coverage.svg)](https://codeclimate.com/github/rafaeljesus/survey/coverage)
 
 
 It's a Rails 3.2 app.
