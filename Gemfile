@@ -26,4 +26,5 @@ group :test do
   gem 'email_spec'
   gem 'factory_girl_rails'
   gem 'shoulda-matchers'
+  gem 'codeclimate-test-reporter', require: nil
 end
